@@ -1,0 +1,75 @@
+.first-half-width {
+    display: flex;
+}
+
+.half-width {
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.half-width img {
+    width: 400px;
+    height: 300px;
+    margin-right: 250px;
+    border-radius: 10px;
+
+
+
+}
+
+.color {
+    color: darkorange;
+    font-size: 35px;
+}
+
+.center {
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.color-bg {
+    background-color: crimson;
+    font-size: 15px;
+    text-decoration: none;
+    padding: 8px 30px;
+    border-radius: 5px;
+
+
+
+}
+
+
+.second-half-width {
+    display: flex;
+}
+
+
+.half-width-1 {
+    margin: 150px;
+    border-radius: 15px;
+    padding: 10px;
+
+    box-shadow: 10px 10px 60px aqua;
+
+
+
+
+}
+
+.half-width-1 img {
+    width: 150px;
+    height: 80px;
+    border-radius: 5px;
+
+
+
+}
+
+.third-part {
+    background-image: url(/Frame\ 57.jpg);
+}
+
+.part-4 {
+    background-image: url(/Frame\ 58.jpg);
+}
